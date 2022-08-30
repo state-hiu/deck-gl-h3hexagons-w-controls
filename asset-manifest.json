@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deck-gl-h3hexagons/static/css/main.a249c514.css",
+    "main.js": "/deck-gl-h3hexagons/static/js/main.d57521b6.js",
+    "static/js/483.d89ed4fb.chunk.js": "/deck-gl-h3hexagons/static/js/483.d89ed4fb.chunk.js",
+    "index.html": "/deck-gl-h3hexagons/index.html",
+    "main.a249c514.css.map": "/deck-gl-h3hexagons/static/css/main.a249c514.css.map",
+    "main.d57521b6.js.map": "/deck-gl-h3hexagons/static/js/main.d57521b6.js.map",
+    "483.d89ed4fb.chunk.js.map": "/deck-gl-h3hexagons/static/js/483.d89ed4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a249c514.css",
+    "static/js/main.d57521b6.js"
+  ]
+}
