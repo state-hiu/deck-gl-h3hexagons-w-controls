@@ -4,7 +4,7 @@
 
 and adding the ignore option to Babel in webpack.config.js seemed to have fixed it.
 
-
+- used this guide to help deploy app on Github pages: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
 
 
